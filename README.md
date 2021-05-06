@@ -1,8 +1,8 @@
 # ubuntu
-// Dump config for ubuntu
-<br />
+### Dump config for ubuntu
+
 dconf dump / > ubuntu-config.txt
 <br />
-// Load from file 
-<br />
+### Load from file 
+
 dconf load / < ubuntu-config.txt
